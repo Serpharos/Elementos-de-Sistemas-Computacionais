@@ -1,0 +1,3 @@
+https://www.solumaths.com/pt/calculadora/calcular/euclidean_division
+Utilização: euclidean_division(3/4)
+
